@@ -1,6 +1,6 @@
 <?php
 
-namespace Cyberduck\LaravelCacheingMemoizer;
+namespace CyberDuck\LaravelCacheingMemoizer;
 
 use Illuminate\Support\ServiceProvider;
 use CyberDuck\CacheingMemoizer\CacheingMemoizer;
