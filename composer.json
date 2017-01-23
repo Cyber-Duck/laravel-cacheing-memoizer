@@ -10,5 +10,11 @@
             "email": "davidj@cyber-duck.co.uk"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Cyberduck\\LaravelCacheingMemoizer\\": "/"
+        }
+    }
+
 }
