@@ -1,0 +1,14 @@
+{
+    "name": "cyber-duck/laravel-cacheing-memoizer",
+    "type": "library",
+    "require": {
+        "cyber-duck/cacheing-memoizer": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "David Jordan",
+            "email": "davidj@cyber-duck.co.uk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
