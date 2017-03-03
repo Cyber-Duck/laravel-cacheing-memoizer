@@ -2,7 +2,7 @@
     "name": "cyber-duck/laravel-cacheing-memoizer",
     "type": "library",
     "require": {
-        "cyber-duck/cacheing-memoizer": "dev-master"
+        "cyber-duck/cacheing-memoizer": "^1.0"
     },
     "authors": [
         {
@@ -10,7 +10,6 @@
             "email": "davidj@cyber-duck.co.uk"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "CyberDuck\\LaravelCacheingMemoizer\\": "/"
