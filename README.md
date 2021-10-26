@@ -1,3 +1,7 @@
+# 🚨 Discontinued 🚨
+Please consider using the out of the box caching functionality in Laravel.
+
+
 # laravel-cacheing-memoizer
 This is a Laravel Service Provider for cyber-duck/cacheing-memoizer.
 
